@@ -2404,7 +2404,7 @@ body, .appMount-2yBXZl {
 
 .wordmarkWindows-2dq6rw::before {
     display: var(--watermark-code);
-    content: "- Classic Code";
+    content: "Discord 11";
     font-family: var(--font-display);
     width: 100vh;
     height: 14px;
